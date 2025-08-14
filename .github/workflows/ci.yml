@@ -32,6 +32,9 @@ jobs:
 
     - name: 执行权限
       run: chmod +x gradlew
+
+    - name: 生成 wrapper 文件
+      run: ./gradlew wrapper
     - name: 编译
       run: ./gradlew :app:assembleRelease
     - name: 上传产物
