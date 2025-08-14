@@ -1,4 +1,4 @@
-package com.zqstudio.easyxposed;
+package com.fuckeproxy.easyxposed;
 
 import android.os.Bundle;
 import android.view.MotionEvent;

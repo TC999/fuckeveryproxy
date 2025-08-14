@@ -1,11 +1,11 @@
-package com.zqstudio.easyxposed.utils;
+package com.fuckeproxy.easyxposed.utils;
 
 import de.robv.android.xposed.XC_MethodHook;
 import de.robv.android.xposed.XposedBridge;
 import de.robv.android.xposed.XposedHelpers;
 
-import static com.zqstudio.easyxposed.utils.Tool.clazzForName;
-import static com.zqstudio.easyxposed.utils.Tool.myException;
+import static com.fuckeproxy.easyxposed.utils.Tool.clazzForName;
+import static com.fuckeproxy.easyxposed.utils.Tool.myException;
 
 /**
  * CreateDate：2020/6/12 9:35

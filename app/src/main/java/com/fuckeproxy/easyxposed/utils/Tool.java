@@ -1,4 +1,4 @@
-package com.zqstudio.easyxposed.utils;
+package com.fuckeproxy.easyxposed.utils;
 
 import android.util.Log;
 
